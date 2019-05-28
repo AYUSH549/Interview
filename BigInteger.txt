@@ -1,0 +1,7 @@
+BigInteger in java
+
+BigInteger b=new BigInteger("1");  // define the bigInteger 
+
+* To multiply using the bigInteger use b=b.multiply(BigInteger.valueOf(int));
+
+
